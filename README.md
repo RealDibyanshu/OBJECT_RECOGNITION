@@ -18,14 +18,14 @@ The project iteratively processes each image, utilizing the YOLO-Tiny model to d
 Overall, these enhancements make the project a versatile and valuable tool for various applications, including image analysis, content tagging, and automated surveillance systems.
 The combination of dynamic input handling, organized output storage, and error resilience positions the project as a user-friendly solution for object recognition tasks.
 
--> Synopsis check✅
--> Script check✅
--> Enough Sleep❌
+-> Synopsis check✅                                                                                                                                                                                    
+-> Script check✅          
+-> Enough Sleep❌          
 
 some useful links->
 1. Reference: https://www.javatpoint.com/object-recognition-using-python
 2. Modules:
-     OpenCV: pip install opencv-python()
+     OpenCV: pip install opencv-python
      Tensorflow: pip install tensorflow
      Keras: pip install keras
      ImageAI: pip install imageai
