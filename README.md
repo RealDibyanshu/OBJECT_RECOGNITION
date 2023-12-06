@@ -1,25 +1,25 @@
 # OBJECT_RECOGNITION
-Bismillah al-Rahman al-Rahim guys, It's Dibyanshu Anshumaan also known as IDK whatever you wanna call me(anything appropriate) presents you
-🥁
-🥁
-🥁
-🥁
-🥁
-🥁
-OBJECT RECOGTION using Python!!!!!!
-
-This Python-based object recognition project, powered by ImageAI and the YOLO-Tiny model, introduces key enhancements for improved flexibility and user interaction.
-By dynamically handling input images from a designated folder, users gain the flexibility to process diverse scenarios effortlessly.
-Output organization has been refined, generating structured output paths based on input image names, promoting a systematic approach to result storage.
-
-Error handling mechanisms have been integrated, offering informative messages in case of model loading issues, ensuring a more robust and user-friendly experience.
-The project iteratively processes each image, utilizing the YOLO-Tiny model to detect and classify objects. User-friendly feedback is provided, displaying detected objects and confidence levels for each image.
-
-Overall, these enhancements make the project a versatile and valuable tool for various applications, including image analysis, content tagging, and automated surveillance systems.
-The combination of dynamic input handling, organized output storage, and error resilience positions the project as a user-friendly solution for object recognition tasks.
-
--> Synopsis check✅                                                                                                                                                                                    
--> Script check✅          
+Bismillah al-Rahman al-Rahim guys, It's Dibyanshu Anshumaan also known as IDK whatever you wanna call me(anything appropriate) presents you...          
+🥁     
+🥁     
+🥁     
+🥁          
+🥁     
+🥁     
+OBJECT RECOGTION using Python!!!!!!     
+     
+This Python-based object recognition project, powered by ImageAI and the YOLO-Tiny model, introduces key enhancements for improved flexibility and user interaction.     
+By dynamically handling input images from a designated folder, users gain the flexibility to process diverse scenarios effortlessly.     
+Output organization has been refined, generating structured output paths based on input image names, promoting a systematic approach to result storage.     
+     
+Error handling mechanisms have been integrated, offering informative messages in case of model loading issues, ensuring a more robust and user-friendly experience.     
+The project iteratively processes each image, utilizing the YOLO-Tiny model to detect and classify objects. User-friendly feedback is provided, displaying detected objects and confidence levels for each image.    
+     
+Overall, these enhancements make the project a versatile and valuable tool for various applications, including image analysis, content tagging, and automated surveillance systems.     
+The combination of dynamic input handling, organized output storage, and error resilience positions the project as a user-friendly solution for object recognition tasks.     
+     
+-> Synopsis check✅                                                                                                                                                                                         
+-> Script check✅               
 -> Enough Sleep❌          
 
 some useful links->
@@ -41,6 +41,6 @@ If you need anything else just contact me on this GREAT TOLL FrEE NuMbEr 9114466
 Ma'a as-salaama
 
 yours true friend-
-  Dibyanshu Anshumaan the 7th great knight hawk
-  with his Sukhoi SU-30MKI(Image: V-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.airforce-technology.com%2Fprojects%2Fsu-30mki-multirole-fighter-aircraft-india%2F&psig=AOvVaw1M_EMG3BJMx8G3_-YaY8_q&ust=1701989314610000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLi97L3y-4IDFQAAAAAdAAAAABAD)
-  I watched **"My Fault"** and It was great(not with parents)
+  Dibyanshu Anshumaan the 7th great knight hawk	
+  with his Sukhoi SU-30MKI(Image: V-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.airforce-technology.com%2Fprojects%2Fsu-30mki-multirole-fighter-aircraft-india%2F&psig=AOvVaw1M_EMG3BJMx8G3_-YaY8_q&ust=1701989314610000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLi97L3y-4IDFQAAAAAdAAAAABAD)	
+  I watched **"My Fault"** and It was great(not with parents)	
