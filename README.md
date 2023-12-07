@@ -35,6 +35,7 @@ some useful links->
 6. GTA VI: https://youtu.be/QdBZY2fkU-0?si=Z12SQNYuInPu0u0q
 7. My Insta I'd: https://www.instagram.com/dibyanshu_anshumaan/
 8. Script: https://docs.google.com/document/d/1lRjnd8GRPOS5mA2eC0vhRFuYI7pGcppuZs26jwoKhBw/edit?usp=sharing
+9. Synopsis: https://docs.google.com/document/d/1SjRF3gJaYR4p-xHLO9b6Ik7Hwiuy2Ss_tp9weq5XIvk/edit?usp=sharing
 
 If you need anything else just contact me on this GREAT TOLL FrEE NuMbEr 9114466826(My genuine number, not obtained illegaly **FOR FEMALES ONLY**)
 
